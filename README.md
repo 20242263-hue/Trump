@@ -1,1 +1,40 @@
-# Trump
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trump: The Choice We Face By Taglinao Paul Nathaniel P</title>
+</head>
+<table border="1" width="400px" Height="300px">
+    <tr>
+        <td><h1>Trump: The Choice We Face</h1>
+        <h2>A Trump administration poses to democratic principles</h2>
+        <p><a href="mailto:20242263@s.ubaguio.edu"><h3>By Taglinao Paul Nathaniel</h3></a></p>
+        <hr>
+        <body>
+            <p style="font-family: Arial,"><b>Article Body</b>
+            <br>
+        <ul>
+            <a href="https://www.nybooks.com/online/2016/11/27/trump-realism-vs-moral-politics-choice-we-face/" target="_blank"><li>Freedom</li></a>
+        <a href="https://www.bbc.com/news/articles/c5y3599gx4qo"target="_blank"><li>Peace</li></a>
+        <a href="https://www.newyorker.com/news/q-and-a/donald-trumps-culture-of-corruption"target="_blank"><li>Corruption</li></a>
+        <a href="https://www.whitehouse.gov/articles/2025/08/trump-effect-a-running-list-of-new-u-s-investment-in-president-trumps-second-term/"target="_blank"><li>Finance</li></a>
+        <a href="https://www.tandfonline.com/doi/full/10.1080/09557571.2022.2136566#abstract"target="_blank"><li>Survival</li></a>
+        <a href="https://www.bbc.com/news/articles/c1kzz4m3ll1o"target="_blank"><li>Civillians</li></a>
+        <a href="https://www.theepochtimes.com/article/presidential-election-brief-trump-elected-president-5755641?utm_medium=DigitalMkt&utm_source=google&utm_campaign=PM_max-G_Organicpressure_AU3-mik-20250707&gad_source=1&gad_campaignid=22770990712&gbraid=0AAAAACsffenmt6NNnBgGstTPMjenOrWnj&gclid=CjwKCAjw_fnFBhB0EiwAH_MfZmTSC-Q2QUJ53JVQIHrnFjqPCt6OLuUrGOl1vCMz2IBFQqWGYljWHhoC7DgQAvD_BwE"target="_blank"><li>USA</li></a>
+        </ul>
+    <br>
+<b>References:</b>
+<a href="https://www.nybooks.com/online/2016/11/27/trump-realism-vs-moral-politics-choice-we-face/" target="_blank"><li>https://www.nybooks.com/online/2016/11/27/trump-realism-vs-moral-politics-choice-we-face/</li></a>
+        <a href="https://www.bbc.com/news/articles/c5y3599gx4qo"target="_blank"><li>https://www.bbc.com/news/articles/c5y3599gx4qo</li></a>
+        <a href="https://www.newyorker.com/news/q-and-a/donald-trumps-culture-of-corruption"target="_blank"><li>https://www.newyorker.com/news/q-and-a/donald-trumps-culture-of-corruption</li></a>
+        <a href="https://www.whitehouse.gov/articles/2025/08/trump-effect-a-running-list-of-new-u-s-investment-in-president-trumps-second-term/"target="_blank"><li>https://www.whitehouse.gov/articles/2025/08/trump-effect-a-running-list-of-new-u-s-investment-in-president-trumps-second-term/</li></a>
+        <a href="https://www.tandfonline.com/doi/full/10.1080/09557571.2022.2136566#abstract"target="_blank"><li>https://www.tandfonline.com/doi/full/10.1080/09557571.2022.2136566#abstract</li></a>
+        <a href="https://www.bbc.com/news/articles/c1kzz4m3ll1o"target="_blank"><li>https://www.bbc.com/news/articles/c1kzz4m3ll1o</li></a>
+        <a href="https://www.theepochtimes.com/article/presidential-election-brief-trump-elected-president-5755641?utm_medium=DigitalMkt&utm_source=google&utm_campaign=PM_max-G_Organicpressure_AU3-mik-20250707&gad_source=1&gad_campaignid=22770990712&gbraid=0AAAAACsffenmt6NNnBgGstTPMjenOrWnj&gclid=CjwKCAjw_fnFBhB0EiwAH_MfZmTSC-Q2QUJ53JVQIHrnFjqPCt6OLuUrGOl1vCMz2IBFQqWGYljWHhoC7DgQAvD_BwE"target="_blank"><li>https://www.theepochtimes.com/article/presidential-election-brief-trump-elected-president-5755641?utm_medium=DigitalMkt&utm_source=google&utm_campaign=PM_max-G_Organicpressure_AU3-mik-20250707&gad_source=1&gad_campaignid=22770990712&gbraid=0AAAAACsffenmt6NNnBgGstTPMjenOrWnj&gclid=CjwKCAjw_fnFBhB0EiwAH_MfZmTSC-Q2QUJ53JVQIHrnFjqPCt6OLuUrGOl1vCMz2IBFQqWGYljWHhoC7DgQAvD_BwE</li></a>
+        </body>
+
+    </tr>
+
+
+</html>
